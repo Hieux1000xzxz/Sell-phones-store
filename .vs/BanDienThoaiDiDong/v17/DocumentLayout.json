@@ -1,0 +1,615 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\My projects\\BanDienThoaiDiDong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\usermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\usermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\usermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\usermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\productmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\productmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\productmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\productmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\productedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\productedit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\ordermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\ordermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\ordermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\orderdetailadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\orderdetailadmin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\categorymanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\categorymanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\productedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\productedit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\categorymanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\categorymanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admin.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\orderdetailadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\orderdetailadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admin.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admin.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\assets\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\assets\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\admin\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\admin\\admindashboard.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|C:\\My projects\\BanDienThoaiDiDong\\bandienthoaididong\\class\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\class\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\class\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\class\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|C:\\My projects\\BanDienThoaiDiDong\\bandienthoaididong\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|C:\\My projects\\BanDienThoaiDiDong\\bandienthoaididong\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\searchingresult.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\searchingresult.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\products.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\productdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\productdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\orderdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\orderdetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|c:\\my projects\\bandienthoaididong\\bandienthoaididong\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49B8FAF-803F-4FA7-A9BC-A392DFD55CFF}|BanDienThoaiDiDong\\BanDienThoaiDiDong.csproj|solutionrelative:bandienthoaididong\\cart.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManagement.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductManagement.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\ProductManagement.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductManagement.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\ProductManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:45:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailAdmin.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:45:11.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\assets\\css\\admin.css",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\assets\\css\\admin.css",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\assets\\css\\admin.css",
+              "RelativeToolTip": "BanDienThoaiDiDong\\assets\\css\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-08T12:43:08.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Login.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Login.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Login.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:39:10.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminDashboard.aspx.designer.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.designer.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.designer.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.designer.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:35:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Admin.Master.designer.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master.designer.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\Admin.Master.designer.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master.designer.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\Admin.Master.designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:37:07.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\Admin.Master",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:36:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductEdit.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductEdit.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\ProductEdit.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductEdit.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\ProductEdit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:35:16.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryManagement.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:31:23.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T12:29:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManagement.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\UserManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\UserManagement.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\UserManagement.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\UserManagement.aspx.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:43:19.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManagement.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\UserManagement.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\UserManagement.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\UserManagement.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\UserManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T10:43:17.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManagement.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\ProductManagement.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductManagement.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\ProductManagement.aspx.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAgwNsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:41:43.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderManagement.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\OrderManagement.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderManagement.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\OrderManagement.aspx.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAgwLsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:38:21.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderDetailAdmin.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\OrderDetailAdmin.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:37:35.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryManagement.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\CategoryManagement.aspx.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:36:23.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SearchingResult.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\SearchingResult.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\SearchingResult.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\SearchingResult.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\SearchingResult.aspx.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:36:15.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Register.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Register.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Register.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:36:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Profile.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Profile.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Profile.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:36:01.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Products.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Products.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Products.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Products.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Products.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:35:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductDetail.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\ProductDetail.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\ProductDetail.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\ProductDetail.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\ProductDetail.aspx.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:35:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderDetail.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\OrderDetail.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\OrderDetail.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\OrderDetail.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\OrderDetail.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:35:21.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Login.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Login.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Login.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:35:12.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Checkout.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Checkout.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Checkout.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Checkout.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Checkout.aspx.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:34:44.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\AdminDashboard.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:33:40.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\class\\CartItem.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\class\\CartItem.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\class\\CartItem.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\class\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:33:15.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductEdit.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductEdit.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\ProductEdit.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\ProductEdit.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\ProductEdit.aspx.cs",
+              "ViewState": "AgIAACIDAAAAAAAAAAAYwDwDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:29:03.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Cart.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Cart.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Cart.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Cart.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Cart.aspx.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:28:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderManagement.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderManagement.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\OrderManagement.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\OrderManagement.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\OrderManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T10:28:37.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Cart.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Cart.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Cart.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-08T10:28:18.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.Master.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Admin\\Admin.Master.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Admin\\Admin.Master.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Admin\\Admin.Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:27:55.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Web.config",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Web.config",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Web.config",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-26T04:22:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Default.aspx.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Default.aspx.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Default.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwBkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T04:20:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Default.aspx",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\Default.aspx",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\Default.aspx",
+              "RelativeToolTip": "BanDienThoaiDiDong\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-26T04:20:03.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\class\\Database.cs",
+              "RelativeDocumentMoniker": "BanDienThoaiDiDong\\class\\Database.cs",
+              "ToolTip": "C:\\My projects\\BanDienThoaiDiDong\\BanDienThoaiDiDong\\class\\Database.cs",
+              "RelativeToolTip": "BanDienThoaiDiDong\\class\\Database.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAkwIIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:13:01.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

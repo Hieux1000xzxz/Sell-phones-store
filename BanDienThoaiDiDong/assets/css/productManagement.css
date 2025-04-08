@@ -1,0 +1,198 @@
+﻿/* Product Management */
+.product-management {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+/* Button Add New */
+.btn-add {
+    background: var(--success-color);
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: background 0.2s;
+}
+
+    .btn-add:hover {
+        background: #27ae60;
+    }
+
+/* Filter Section */
+.filter-section {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+/* Search Box */
+.search-box {
+    flex: 1;
+    min-width: 250px;
+    display: flex;
+    gap: 10px;
+}
+
+    .search-box input[type="text"] {
+        flex: 1;
+        padding: 8px 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        font-size: 14px;
+    }
+
+.my-search-product-btn {
+    padding: 8px 20px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .my-search-product-btn:hover {
+        background: var(--secondary-color);
+    }
+
+/* Filter Box */
+.filter-box {
+    display: flex;
+    gap: 10px;
+}
+
+    .filter-box select {
+        padding: 8px 15px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        min-width: 150px;
+        background: white;
+    }
+
+/* Grid View */
+.grid-view {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.grid-view th {
+    background: #f8f9fa;
+    padding: 15px;
+    text-align: left;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+.grid-view td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #eee;
+    vertical-align: middle;
+}
+
+/* Product Image */
+.product-img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+/* Status Badges */
+.status-active, .status-inactive {
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.status-active {
+    background: #2ecc7120;
+    color: #27ae60;
+}
+
+.status-inactive {
+    background: #e74c3c20;
+    color: #c0392b;
+}
+
+/* Action Buttons */
+.action-buttons {
+    display: flex;
+    gap: 4px;
+}
+
+.btn-edit, .btn-delete {
+    padding: 8px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 8px;
+    transition: all 0.3s ease;
+}
+
+.btn-edit {
+    background: #3498db;
+    color: white;
+}
+
+.btn-edit:hover {
+    background: #2980b9;
+}
+
+.btn-delete {
+    background: #e74c3c;
+    color: white;
+}
+
+.btn-delete:hover {
+    background: #c0392b;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .filter-section {
+        flex-direction: column;
+    }
+
+    .search-box {
+        width: 100%;
+    }
+
+    .filter-box {
+        width: 100%;
+        flex-direction: column;
+    }
+
+        .filter-box select {
+            width: 100%;
+        }
+
+    .action-buttons {
+        flex-direction: column;
+    }
+
+    .grid-view {
+        font-size: 14px;
+    }
+
+    .grid-view th,
+    .grid-view td {
+        padding: 8px;
+    }
+}

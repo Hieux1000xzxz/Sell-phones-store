@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="BanDienThoaiDiDong.Admin" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Admin Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <link href="/assets/css/admin.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="admin-wrapper">
+            <nav class="sidebar">
+                <div class="sidebar-header">
+                    <h2><i class="fas fa-mobile-alt"></i>THT Admin</h2>
+                </div>
+                <div class="sidebar-menu">
+                    <asp:HyperLink runat="server" ID="lnkDashboard" NavigateUrl="~/Admin/AdminDashboard.aspx" CssClass="menu-item">
+                        <i class="fas fa-home"></i>
+                        <span>Tổng quan</span>
+                    </asp:HyperLink>
+                    <asp:HyperLink runat="server" ID="lnkProducts" NavigateUrl="~/Admin/ProductManagement.aspx" CssClass="menu-item">
+                        <i class="fas fa-box"></i>
+                        <span>Quản lý sản phẩm</span>
+                    </asp:HyperLink>
+                    <asp:HyperLink runat="server" ID="lnkOrders" NavigateUrl="~/Admin/OrderManagement.aspx" CssClass="menu-item">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span>Quản lý đơn hàng</span>
+                    </asp:HyperLink>
+                    <asp:HyperLink runat="server" ID="lnkUsers" NavigateUrl="~/Admin/UserManagement.aspx" CssClass="menu-item">
+                        <i class="fas fa-users"></i>
+                        <span>Quản lý người dùng</span>
+                    </asp:HyperLink>
+                    <asp:HyperLink runat="server" ID="lnkCategories" NavigateUrl="~/Admin/CategoryManagement.aspx" CssClass="menu-item">
+                        <i class="fas fa-list"></i>
+                        <span>Quản lý danh mục</span>
+                    </asp:HyperLink>
+                </div>
+            </nav>
+
+            <main class="main-content">
+                <header class="top-header">
+                    <div>
+                    </div>
+                    <div class="user-menu">
+                        <div class="user-info">
+                            <i class="fas fa-user-circle"></i>
+                            <asp:Label ID="lblAdminName" runat="server" CssClass="admin-name" />
+                        </div>
+                        <asp:LinkButton ID="btnLogout" runat="server" OnClick="btnLogout_Click" CssClass="logout-btn">
+                            <i class="fas fa-sign-out-alt"></i>
+                            <span>Đăng xuất</span>
+                        </asp:LinkButton>
+                    </div>
+                </header>
+
+                <div class="content-wrapper">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </main>
+        </div>
+    </form>
+</body>
+</html>

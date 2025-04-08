@@ -1,0 +1,116 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="BanDienThoaiDiDong.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="dynamicTitle" runat="server">
+        </asp:ContentPlaceHolder>
+    </title>
+    <link href="styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./assets/css/auth.css">
+    <link rel="stylesheet" href="./assets/css/footer.css">
+    <link rel="stylesheet" href="./assets/css/category.css"/>
+    <link rel="stylesheet" href="./assets/css/slider.css"/>
+    <link rel="stylesheet" href="./assets/css/products.css" />
+    <style>
+        img{
+            display: block !important;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <div class="header">
+            <!-- logo and title -->
+            <div class="logo-box">
+                <asp:HyperLink ID="logoLink" runat="server" CssClass="logo-link" NavigateUrl="~/">
+                    <asp:Image ID="logoImage" runat="server" CssClass="logo" ImageUrl="~/assets/icons/HauiLogo.png" />
+                </asp:HyperLink>
+                <h1 class="shop-name">
+                    <asp:HyperLink ID="shopLink" runat="server" CssClass="shop-link" NavigateUrl="~/Default.aspx">THT PhoneShop</asp:HyperLink>
+                </h1>
+            </div>
+            <!-- searching bar and searching button, searching history -->
+            <div class="search-box">
+                <div class="search-wrapper">
+                    <asp:TextBox ID="searchBar" runat="server" 
+                        CssClass="search-input" 
+                        placeholder="Tìm kiếm điện thoại, thương hiệu...">
+                    </asp:TextBox>
+
+                    <asp:Button ID="btnSearch" runat="server" 
+                        CssClass="search-btn" 
+                        OnClick="btnSearch_Click"
+                        Text="Tìm kiếm" />
+                    
+                </div>
+            </div>
+            <!-- user and carts button -->
+            <div class="nav-buttons">
+                <asp:HyperLink ID="loginLink" runat="server" CssClass="nav-btn login-btn" NavigateUrl="~/Login.aspx">
+                    <asp:Image ID="userIcon" runat="server" CssClass="btn-icon" ImageUrl="~/assets/icons/user.svg" />
+                    <asp:Label ID="lblAccount" runat="server" CssClass="btn-text" Text="Tài khoản" />
+                </asp:HyperLink>
+
+                <asp:LinkButton ID="cartButton" runat="server" CssClass="nav-btn cart-btn" OnClick="cartButton_Click">
+                    <asp:Image ID="cartIcon" runat="server" CssClass="btn-icon" ImageUrl="~/assets/icons/shopping-bag.svg" />
+                    <asp:Label ID="lblCart" runat="server" CssClass="btn-text" Text="Giỏ hàng" />
+                    <asp:Label ID="lblCartCount" runat="server" CssClass="cart-count" Text="0" />
+                </asp:LinkButton>
+            </div>
+        </div>
+
+        <!--place holder -->
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+        </asp:ContentPlaceHolder>
+
+        <!--footer -->
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3 class="footer-title">Về THT PhoneShop</h3>
+                    <p class="footer-description">
+                        Chuyên cung cấp các sản phẩm điện thoại chính hãng với giá cả hợp lý, 
+                đảm bảo chất lượng và dịch vụ khách hàng tốt nhất.
+                    </p>
+                </div>
+
+                <div class="footer-section">
+                    <h3 class="footer-title">Thông tin liên hệ</h3>
+                    <div class="contact-info">
+                        <p>Hotline: 0374963082 (7:30 - 22:00)</p>
+                        <p>Email: nhom11maiyeu@gmail.com</p>
+                        <p>Địa chỉ: Phường Minh Khai, Bắc Từ Liêm, Hà Nội</p>
+                    </div>
+                </div>
+
+                <div class="footer-section">
+                    <h3 class="footer-title">Thành viên</h3>
+                    <div class="contact-info">
+                        <p>Thái Văn Trường</p>
+                        <p>Trần Đức Trường</p>
+                        <p>Trương Đức Hiếu</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer-bottom">
+                <div class="footer-bottom-content">
+                    <p class="copyright">© 2024 THT PhoneShop. Bản quyền của nhóm 11</p>
+                </div>
+            </div>
+        </footer>
+    </form>
+    <script src="~/assets/js/header.js"></script>
+    <script src="./assets/js/login.js"></script>
+    <script src="./assets/js/register.js"></script>
+     <script src="./assets/js/slider.js"></script>
+</body>
+</html>

@@ -1,0 +1,110 @@
+﻿.main-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+    margin-top: 90px;
+}
+
+.categories-and-banner {
+    display: flex;
+    gap: 24px;
+    margin-bottom: 24px;
+}
+
+.category-sidebar {
+    width: 240px;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.category-title {
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 14px 16px;
+    background: linear-gradient(to right, #cb1e23, #e74c3c);
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    position: relative;
+}
+
+.category-list {
+    list-style: none;
+    padding: 8px;
+    margin: 0;
+}
+
+.category-item {
+    margin-bottom: 2px;
+}
+
+.category-link {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    color: #444;
+    text-decoration: none;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    font-weight: 500;
+    font-size: 14px;
+    position: relative;
+    overflow: hidden;
+}
+
+    .category-link::before {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 3px;
+        height: 100%;
+        background-color: #cb1e23;
+        transform: scaleY(0);
+        transition: transform 0.3s ease;
+    }
+
+    .category-link:hover {
+        background-color: #f8f8f8;
+        color: #cb1e23;
+        padding-left: 18px;
+    }
+
+        .category-link:hover::before {
+            transform: scaleY(1);
+        }
+
+    .category-link:active {
+        transform: translateX(2px);
+        background-color: #f0f0f0;
+    }
+
+.category-icon {
+    width: 20px;
+    height: 20px;
+    opacity: 0.7;
+    transition: all 0.3s ease;
+    flex-shrink: 0;
+}
+
+.category-link:hover .category-icon {
+    opacity: 1;
+    transform: scale(1.1) rotate(-5deg);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .main-content {
+        flex-direction: column;
+        gap: 16px;
+        margin-top: 70px;
+    }
+
+    .category-sidebar {
+        width: 100%;
+    }
+}
